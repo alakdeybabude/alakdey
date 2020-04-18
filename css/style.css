@@ -1,0 +1,76 @@
+.bg-img{
+    background-image: url("../images/sunset.jpeg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+}
+.header-set{
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+.btn{
+    padding: 5px 30px;
+}
+.header-set h2{
+    
+    color: black
+}
+.header-set h1{
+    
+    color:black
+}
+.our-service h2{
+    font-size: 50px;
+   margin-bottom: 20px;
+}
+.our-service p{
+    font-size: 16px;
+}
+.margin-p{
+    margin-bottom: 100px;
+}
+
+.our-service h3{
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.img-icon{
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #FFCD41;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      
+}
+.portfolio h2{
+    margin-bottom: 20px;
+}
+.portfolio p{
+    margin-bottom: 80px;
+}
+
+.portfolio .card{
+    margin-top: 40px;
+}
+.section-padding{
+    padding: 100px 0;
+}
+.figure img{
+    width: 150px;
+    
+}
+.our-team p{
+    margin-bottom: 100px;
+}
+.our-team h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.our-team h5{
+    color: #333125;
+}
